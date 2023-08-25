@@ -1,3 +1,3 @@
 # KSSGItAdobe
-
-#testing
+.
+#test
